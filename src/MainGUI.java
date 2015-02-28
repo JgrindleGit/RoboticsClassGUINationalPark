@@ -13,12 +13,13 @@ class MainGUI {
     public JTextField v;
     public JButton fB;
     public JButton n;
-    MainGUI() {
-        vis = new ParkServices(40);
+
+    MainGUI(){
+        vis = new ParkServices();
         f = new JFrame("National Park Card");
         fB = new JButton("Amount of Visits Forest: " + vis.getForestVisits());
         t = new JTextField("Money on you: " +vis.getMoney());
-        n = new JButton("Amount of Visits Forest: " + vis.getNationalVisits());
+        n = new JButton("Amount of Visits National: " + vis.getNationalVisits());
         f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         b = new JButton("Amount of Visits Beach: " + vis.getVisits());
         v = new JTextField("Amount of Visits: "+ vis.getVisits());

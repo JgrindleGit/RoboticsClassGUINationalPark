@@ -16,11 +16,11 @@ public class ParkServices {
     public int visits = 0;
     public double Money;
     private double beachPrice;
-    public ParkServices(double Money){
-        this.Money = Money;
+    public ParkServices(){
         beachPrice = 10;
         forestPrice = 5;
         nationalPrice = 30;
+        Money = 40;
 
     }
     public void setForestVisits(){
