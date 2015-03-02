@@ -47,6 +47,10 @@ public class ParkServices {
 
         }
     }
+    public void setBeach(){
+        visits += 1;
+        beachVisits =+1;
+    }
     public void addMoney(double addedMoney){
         Money += addedMoney;
     }
