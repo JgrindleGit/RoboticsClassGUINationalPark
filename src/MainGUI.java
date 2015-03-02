@@ -15,6 +15,7 @@ class MainGUI {
     public JButton n;
 
     MainGUI(){
+
         vis = new ParkServices();
         f = new JFrame("National Park Card");
         fB = new JButton("Amount of Visits Forest: " + vis.getForestVisits());
@@ -78,15 +79,22 @@ class MainGUI {
     f.getContentPane().add(t);
     f.getContentPane().add(b);
     f.getContentPane().add(bAdd);
+
     f.pack();
     f.update(g);
-    f.setSize(300, 300);//frame size 300 width and 300 height
+    f.setSize(600, 600);//frame size 300 width and 300 height
     f.setLayout(null);//no layout manager
     f.setVisible(true);//now frame will be visible, by default not visible
-}
+    }
+    public void add(Component comp){
+        f.add(comp);
+        f.getContentPane().add(comp);
+
+    }
 
     public static void main(String args[]) {
         MainGUI i = new MainGUI();
+        BeachReward t = new BeachReward();
 
     }
 }
