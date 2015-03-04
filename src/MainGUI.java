@@ -18,7 +18,7 @@ class MainGUI {
     public BeachReward z;
     //IGNORE UNDER THIS COMMENT
     //BeachReward z = new BeachReward();
-    public void mainGUI() {
+    MainGUI() {
         //Instantating the classes
         z = new BeachReward();
         vis = new ParkServices();
