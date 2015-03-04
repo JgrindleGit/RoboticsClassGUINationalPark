@@ -16,6 +16,7 @@ public class ParkServices {
     public int visits = 0;
     public double Money;
     private double beachPrice;
+    //sets variable to default
     public ParkServices(){
         beachPrice = 10;
         forestPrice = 5;
@@ -23,6 +24,7 @@ public class ParkServices {
         Money = 40;
 
     }
+    //For all methods except setBeach checks if Money is greater than price
     public void setForestVisits(){
         if(Money>= forestPrice){
             visits+=1;
@@ -47,6 +49,7 @@ public class ParkServices {
 
         }
     }
+    //set Beach is used for Reward system
     public void setBeach(){
         visits += 1;
         beachVisits =+1;
