@@ -2,6 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e151a762-918e-487d-a421-b893bd636e70" name="Default" comment="">
+      <change type="DELETED" beforePath="C:\Users\John\workspace\CoffeeCard\out\production\CoffeeCardSpinOff\BeachReward.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\John\workspace\CoffeeCard\out\production\CoffeeCardSpinOff\MainGUI$1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\John\workspace\CoffeeCard\out\production\CoffeeCardSpinOff\MainGUI$2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\John\workspace\CoffeeCard\out\production\CoffeeCardSpinOff\MainGUI$3.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\John\workspace\CoffeeCard\out\production\CoffeeCardSpinOff\MainGUI$4.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\John\workspace\CoffeeCard\out\production\CoffeeCardSpinOff\MainGUI$5.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\John\workspace\CoffeeCard\out\production\CoffeeCardSpinOff\MainGUI.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\John\workspace\CoffeeCard\out\production\CoffeeCardSpinOff\ParkServices.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="CoffeeCard.iws" />
@@ -405,7 +413,13 @@
       <option name="project" value="LOCAL" />
       <updated>1425651422845</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Null pointer&#10;">
+      <created>1425657552645</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1425657552645</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -442,7 +456,7 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2149792" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2149792" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32871014" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1541555" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -501,7 +515,8 @@
     </option>
     <MESSAGE value="Broke some stuff Fixed some stuff" />
     <MESSAGE value="Broke some more stuff Fixed some stuff" />
-    <option name="LAST_COMMIT_MESSAGE" value="Broke some more stuff Fixed some stuff" />
+    <MESSAGE value="Null pointer&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Null pointer&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
