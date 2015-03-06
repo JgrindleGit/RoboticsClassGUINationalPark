@@ -2,18 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e151a762-918e-487d-a421-b893bd636e70" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\John\workspace\CoffeeCard\src\BeachReward.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\John\workspace\CoffeeCard\src\MainGUI.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\John\workspace\CoffeeCard\src\ParkServices.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CoffeeCardSpinOff/BeachReward.class" afterPath="$PROJECT_DIR$/out/production/CoffeeCardSpinOff/BeachReward.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CoffeeCardSpinOff/MainGUI$1.class" afterPath="$PROJECT_DIR$/out/production/CoffeeCardSpinOff/MainGUI$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CoffeeCardSpinOff/MainGUI$2.class" afterPath="$PROJECT_DIR$/out/production/CoffeeCardSpinOff/MainGUI$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CoffeeCardSpinOff/MainGUI$3.class" afterPath="$PROJECT_DIR$/out/production/CoffeeCardSpinOff/MainGUI$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CoffeeCardSpinOff/MainGUI$4.class" afterPath="$PROJECT_DIR$/out/production/CoffeeCardSpinOff/MainGUI$4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CoffeeCardSpinOff/MainGUI$5.class" afterPath="$PROJECT_DIR$/out/production/CoffeeCardSpinOff/MainGUI$5.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CoffeeCardSpinOff/MainGUI.class" afterPath="$PROJECT_DIR$/out/production/CoffeeCardSpinOff/MainGUI.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CoffeeCardSpinOff/ParkServices.class" afterPath="$PROJECT_DIR$/out/production/CoffeeCardSpinOff/ParkServices.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="CoffeeCard.iws" />
@@ -72,8 +60,8 @@
       <file leaf-file-name="MainGUI.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/CoffeeCardStuff/MainGUI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0877193" vertical-offset="1082" max-vertical-offset="1955">
-              <caret line="77" column="61" selection-start-line="77" selection-start-column="61" selection-end-line="77" selection-end-column="61" />
+            <state vertical-scroll-proportion="0.57236844" vertical-offset="1065" max-vertical-offset="1955">
+              <caret line="93" column="38" selection-start-line="93" selection-start-column="38" selection-end-line="93" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -405,6 +393,13 @@
       <option name="number" value="Default" />
       <updated>1424783372515</updated>
     </task>
+    <task id="LOCAL-00001" summary="Broke some stuff Fixed some stuff">
+      <created>1425649940878</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1425649940878</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -498,6 +493,8 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="Broke some stuff Fixed some stuff" />
+    <option name="LAST_COMMIT_MESSAGE" value="Broke some stuff Fixed some stuff" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -551,8 +548,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CoffeeCardStuff/MainGUI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0877193" vertical-offset="1082" max-vertical-offset="1955">
-          <caret line="77" column="61" selection-start-line="77" selection-start-column="61" selection-end-line="77" selection-end-column="61" />
+        <state vertical-scroll-proportion="0.57236844" vertical-offset="1065" max-vertical-offset="1955">
+          <caret line="93" column="38" selection-start-line="93" selection-start-column="38" selection-end-line="93" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
